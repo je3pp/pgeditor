@@ -22,7 +22,7 @@ Current version: **0.1**
 ## Build
 
 ```sh
-git clone <your-repository-url> pgeditor
+git clone https://github.com/je3pp/pgeditor.git
 cd pgeditor
 go mod tidy
 go build -o pgeditor
